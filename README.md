@@ -20,14 +20,14 @@ scalable, and easy-to-manage solution.
 
 | 💡 **Feature** | 📄 **Description** |
 |---------------|------------------|
-| ⭐ **Modern & Responsive Design** | Fully responsive layout for seamless experience on all devices. |
+| ⭐ **Responsive Design** | Fully responsive layout for seamless experience on all devices. |
 | ⚡ **Program Management** | Easily manage programs, courses, and details. |
-| 🔐 **Events & News Management** | Create and manage news, events, and important announcements. |
-| 💊 **Flexible Content Management** | Easy content updates with WordPress custom fields and blocks. |
-| 🗄️ **Admissions & Inquiry Forms** | Custom forms for admissions, requests, and information. |
+| 🔐 **Events & News** | Create and manage news, events, and important announcements. |
+| 💊 **Flexible Content** | Easy content updates with WordPress custom fields and blocks. |
+| 🗄️ **Inquiry Forms** | Custom forms for admissions, requests, and information. |
 | 🛠️ **Performance Optimized** | Fast loading, SEO friendly, and performance optimized. |
 | 📱 **Secure & Reliable** | Built with best practices to ensure security and data protection. |
-| 📱 **Scalable & Responsive** | Scalable & Easy to Manage Built on WordPress, PHP & MySQL for better scalability. |
+| 📱 **Scalable** | Scalable & Easy to Manage Built on WordPress, PHP & MySQL for better scalability. |
     
 *(Customize based on project)*
 
