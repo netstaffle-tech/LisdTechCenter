@@ -1,21 +1,18 @@
 # LisdTechCenter
 Preparing Students Today for High-Wage, High-Skill, and In-Demand Careers.
 
-## 🌐 Site URL  
-🔗 https://www.doctorsolve.com/
-
----
-
-## 🧩 Project Overview 
-Preparing Students Today for High-Wage, High-Skill, and In-Demand Careers.
-
 We made key updates and enhancements to the LISD Tech Center website to improve performance, usability, and accessibility. Built with WordPress, PHP, and MySQL for a secure,
 scalable, and easy-to-manage solution.
+
+
+## 🌐 Site URL  
+🔗 https://www.lisdtechcenter.com
+
 
 ---
 
 ## 🎯 Key Features
-![Module](https://github.com/netstaffle-tech/DoctorSolve/blob/main/DoctorSolve_Application.png)
+![Module](https://github.com/netstaffle-tech/LisdTechCenter/blob/main/Lisdtechcenter_aaplication.png)
 
 ---
 
